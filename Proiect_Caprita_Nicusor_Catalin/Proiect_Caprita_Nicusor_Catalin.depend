@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546530776 source:c:\users\yoyok\desktop\ppproject\proiect_caprita_nicusor_catalin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
